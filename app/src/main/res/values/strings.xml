@@ -1,0 +1,14 @@
+<resources>
+    <string name="emergency_info">Emergency Information</string>
+    <string name="enter_emergency_information">Enter Emergency Information to be used,\nMake sure all emergrncy contacts are reacherble</string>
+    <string name="personal_info">Personal Information</string>
+    <string name="your_name">Your Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="a3_nairobi">A3, Nairobi, Nairobi Country, Kenya</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="add_emergency_1">Add Emergency Number 1</string>
+    <string name="emergency_2">Add Emergency Number 2</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="save">save</string>
+</resources>
